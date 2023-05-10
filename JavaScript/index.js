@@ -47,6 +47,7 @@ if (userInput == 10) {
     console.log("Valid")
 }
 
+
 else {
     console.log("Invalid")
 }
