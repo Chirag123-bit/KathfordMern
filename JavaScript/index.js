@@ -187,7 +187,6 @@ const reverseNumbers = (num) => {
         revNum = revNum * 10 + lastDigit
         num = Math.floor(num / 10)
     }
-
     console.log(revNum)
 }
 
